@@ -28,6 +28,6 @@ The polished version of me lives in [jazmeen.com](https://jazmeen.com). This is 
 
 ## Elsewhere
 
-[jazmeen.com](https://jazmeen.com) · [Linkedin](https://linkedin.com/in/jazmeenazman)
+[My Computer](https://jazmeen.com) · [Linkedin](https://linkedin.com/in/jazmeenazman)
 
 Want to talk? There's a form on the site. It works.
