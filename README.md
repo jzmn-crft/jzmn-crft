@@ -14,7 +14,7 @@ The polished version of me lives in [jazmeen.com](https://jazmeen.com). This is 
 
 **Huh.** — one fact a day concept. Free. Built because I was paying a subscription for what is functionally a widget. The interesting part is what it doesn't have: no accounts, no streaks, no notifications begging you back. The fact is the product.
 
-**Portfolio-Site** *(coming soon)* — a portfolio site template, free to use. vanilla JS, GSAP, scroll-driven, deploys anywhere static. one of several i've built; this one's the giveaway. the rest are headed to marketplaces.
+**Sea-of-Stars Template** — a portfolio site template, free to use. vanilla JS, GSAP, scroll-driven, deploys anywhere static. one of several i've built; this one's the giveaway. the rest are headed to marketplaces.
 
 ## Not On Github (by design)
 
