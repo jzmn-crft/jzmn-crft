@@ -18,7 +18,11 @@ The polished version of me lives in [jazmeen.com](https://jazmeen.com). This is 
 
 ## Not On Github (by design)
 
-**My AI automation systems** — multi-agent workflows on Zapier (5+ hrs/week recovered), a Gumloop OCR invoice pipeline (88% less manual entry), and n8n order audit reporting (97% time reduction) — live on their respective platforms, not in a repo. Full architecture and outcomes are documented separately; available on request.
+The systems themselves live on their respective platforms — Zapier, Gumloop, n8n — not in a repo. There's no code to browse, but there's a decision behind each one. Write-ups below.
+
+- **[Multi-agent campaign planner](automation-case-studies/zapier-multi-agent-campaign-planner.md)** (Zapier) — two agents, one triggers the other on-demand for research. The one project here I'd actually call agentic. ~260 hrs/year recovered.
+- **[Invoice OCR pipeline](automation-case-studies/gumloop-invoice-ocr.md)** (Gumloop) — built during a finance-lead emergency to keep an agency compliant with Malaysia's e-invoice rules. ~161 hrs/year recovered, 95% fewer entry errors.
+- **[Order audit reporting](automation-case-studies/n8n-order-audit.md)** (n8n, self-hosted) — weekly reconciliation and reporting for an e-commerce solopreneur, zero recurring infra cost. ~126 hrs/year recovered.
 
 ## How I Work
 
