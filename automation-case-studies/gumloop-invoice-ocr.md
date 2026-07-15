@@ -17,7 +17,7 @@ An advertising agency's finance lead was hospitalized mid-transition to Malaysia
 
 | Metric | Before | After |
 |---|---|---|
-| Weekly processing | 3–4 hrs | ~25 min/month |
+| Weekly processing | 3–4 hrs | ~1.75 hrs/month |
 | Data entry errors | 8–12/month | <1/month |
 | Audit trail | Manual, incomplete | 100% logged |
 

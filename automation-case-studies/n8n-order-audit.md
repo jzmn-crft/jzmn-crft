@@ -27,7 +27,7 @@ A solopreneur's e-commerce business needed weekly financial reporting — reconc
 
 ![n8n workflow](assets/n8n-flow.png)
 
-**What I'd do differently.** The workflow fails loudly on purpose — if the WooCommerce API call fails, it logs and alerts rather than silently skipping a week. That was a deliberate call after the invoice pipeline taught me silent failures are worse than loud ones in anything touching finance. Current volume is ~20 orders/week against headroom for 500+; I'd revisit the async handling once it's actually load-bearing rather than speculative.
+**What I'd do differently.** The workflow fails loudly on purpose — if the WooCommerce API call fails, it logs and alerts rather than silently skipping a week. That was a deliberate call after the invoice pipeline taught me silent failures are worse than loud ones in anything touching finance. This project is currently on hold while I focus elsewhere; I'd revisit the async handling once volume actually justifies it.
 
 ---
 Screenshots of the actual agent configs and output samples available on request.
