@@ -8,7 +8,11 @@ The polished version of me lives in [jazmeen.com](https://jazmeen.com). This is 
 
 ## Currently Building
 
-**Halsteq** — an ER triage simulator training tool. 100 patient cases, clinically rationalized, freemium pricing. Built a multi-agent system for it: a tool-calling agent that synthesizes shift performance summaries, a schema-validated coaching agent that grades clinical reasoning against rubrics. private while in active development — happy to walk through the product thinking in conversation.
+**Halsteq** — an ER triage simulator training tool. 100 patient cases, clinically rationalized, freemium pricing. 
+
+Built a multi-agent system for it: a tool-calling agent that synthesizes shift performance summaries, a schema-validated coaching agent that grades clinical reasoning against rubrics. 
+
+Private while in active development — happy to walk through the product thinking in conversation.
 
 ## What's Public
 
